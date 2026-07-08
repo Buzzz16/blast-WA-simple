@@ -77,8 +77,8 @@ Siapkan file `NomerTelpon.xlsx` di dalam folder `nomerTelpon`.
 
 | Nama (Kolom A) | Nomor Telepon (Kolom B) |
 | --- | --- |
-| Zulfa | 6281323285482 |
-| Islah | 6285759677386 |
+| Zulfa | 628132556775|
+| Islah | 628554649975|
 
 > ⚠️ **Catatan:** Baris pertama (Row 1) akan dianggap sebagai judul tabel/Header dan **tidak akan dikirimkan pesan**. Kontak pertama yang diproses adalah baris ke-2.
 
