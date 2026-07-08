@@ -1,0 +1,12 @@
+# Dependencies untuk bot_wa
+selenium
+webdriver-manager
+pyperclip
+Pillow
+pywin32
+pandas
+openpyxl
+# Uncomment / tambahkan sesuai kebutuhan proyek:
+# undetected-chromedriver
+# websocket-client
+# aiohttp

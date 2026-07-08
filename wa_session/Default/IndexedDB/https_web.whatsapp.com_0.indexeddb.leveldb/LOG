@@ -1,0 +1,20 @@
+2026/07/08-11:55:39.425 34ec4 Reusing MANIFEST D:\reunusa\wa_session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/07/08-11:55:39.426 34ec4 Recovering log #3808
+2026/07/08-11:55:39.429 34ec4 Reusing old log D:\reunusa\wa_session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/003808.log 
+2026/07/08-11:55:48.781 34ec4 Level-0 table #3818: started
+2026/07/08-11:55:48.794 34ec4 Level-0 table #3818: 1417600 bytes OK
+2026/07/08-11:55:48.795 34ec4 Delete type=0 #3808
+2026/07/08-11:55:52.524 2dcb4 Compacting 1@1 + 5@2 files
+2026/07/08-11:55:52.568 2dcb4 Generated table #3819@1: 64054 keys, 2256568 bytes
+2026/07/08-11:55:52.603 2dcb4 Generated table #3820@1: 50392 keys, 2212687 bytes
+2026/07/08-11:55:52.624 2dcb4 Generated table #3821@1: 20748 keys, 2170265 bytes
+2026/07/08-11:55:52.649 2dcb4 Generated table #3822@1: 22040 keys, 2181033 bytes
+2026/07/08-11:55:52.684 2dcb4 Generated table #3823@1: 70489 keys, 2136219 bytes
+2026/07/08-11:55:52.684 2dcb4 Compacted 1@1 + 5@2 files => 10956772 bytes
+2026/07/08-11:55:52.685 2dcb4 compacted to: files[ 0 0 5 0 0 0 0 ]
+2026/07/08-11:55:52.685 2dcb4 Delete type=2 #3811
+2026/07/08-11:55:52.685 2dcb4 Delete type=2 #3812
+2026/07/08-11:55:52.685 2dcb4 Delete type=2 #3813
+2026/07/08-11:55:52.685 2dcb4 Delete type=2 #3814
+2026/07/08-11:55:52.685 2dcb4 Delete type=2 #3815
+2026/07/08-11:55:52.685 2dcb4 Delete type=2 #3818
